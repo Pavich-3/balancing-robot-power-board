@@ -41,3 +41,26 @@ fp-info-cache
 
 # Local project settings
 *.kicad_prl
+
+# Gerber outputs
+gerbers/
+gerbers.zip
+nextpcb/
+bom/
+database/
+
+# Restore backups
+_restore_backup_*/
+
+# macOS
+.DS_Store
+
+# Lock files
+~*.lck
+*.lck
+
+# Zip archives
+*.zip
+
+# Backup files
+*.wbk
