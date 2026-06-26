@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "MPU-6050-A") (type "KiCad") (uri "${KIPRJMOD}/MPU-6050-A") (options "") (descr ""))
+)

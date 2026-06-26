@@ -1,0 +1,20 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.1µF,C_0603_1608Metric,124.925,-112.6,0.0,top
+C2,0.1µF,C_0603_1608Metric,127.86,-110.27,180.0,top
+C3,2.2nF,C_0603_1608Metric,125.65,-105.6,0.0,top
+C4,10nF,C_0603_1608Metric,121.65,-112.6,180.0,top
+C5,0.1µF,C_0603_1608Metric,87.4,-104.875,90.0,top
+C6,47µF,CP_Elec_6.3x7.7,91.6,-108.9,0.0,top
+C7,0.1µF,C_0603_1608Metric,96.0,-104.675,90.0,top
+C8,47µF,CP_Elec_6.3x7.7,101.1,-108.9,0.0,top
+J1,Conn_01x09,PinSocket_1x09_P2.54mm_Vertical,115.02,-96.47,90.0,top
+J2,Screw_Terminal_01x02,TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal,90.075,-117.8825,0.0,top
+J3,Screw_Terminal_01x02,TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal,96.675,-117.8825,0.0,top
+J4,Screw_Terminal_01x02,TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal,103.315,-117.8825,0.0,top
+R1,4.7kOm,R_0603_1608Metric,121.6,-104.895,-90.0,top
+R2,4.7kOm,R_0603_1608Metric,123.1,-104.895,-90.0,top
+R3,30kOm,R_0603_1608Metric,90.0,-96.0,0.0,top
+R4,30kOm,R_0603_1608Metric,98.4,-95.625,0.0,top
+U1,MPU-6050,InvenSense_QFN-24_4x4mm_P0.5mm,123.15,-109.05,0.0,top
+U2,DRV8871DDA,Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias,91.1,-101.0,-90.0,top
+U3,DRV8871DDA,Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias,99.5,-100.65,-90.0,top

@@ -1,0 +1,11 @@
+Designator,Quantity,MPN,manufacturer,Package/Footprint,Description,Procurement Type,Customer Note
+C3,1,,,C_0603_1608Metric,2.2nF,,
+C4,1,,,C_0603_1608Metric,10nF,,
+"C5,C1,C7,C2",4,,,C_0603_1608Metric,0.1µF,,
+"C8,C6",2,,,CP_Elec_6.3x7.7,47µF,,
+J1,1,,,PinSocket_1x09_P2.54mm_Vertical,Conn_01x09,,
+"J4,J2,J3",3,,,TerminalBlock_Xinya_XY308-2.54-2P_1x02_P2.54mm_Horizontal,Screw_Terminal_01x02,,
+"R2,R1",2,,,R_0603_1608Metric,4.7kOm,,
+"R4,R3",2,,,R_0603_1608Metric,30kOm,,
+U1,1,,,InvenSense_QFN-24_4x4mm_P0.5mm,MPU-6050,,
+"U3,U2",2,,,Texas_HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.95x4.9mm_Mask2.4x3.1mm_ThermalVias,DRV8871DDA,,
