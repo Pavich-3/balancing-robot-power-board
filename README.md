@@ -4,4 +4,4 @@ Power board for self-balancing robot with dual DRV8871 motor drivers and MPU-605
 ![Schematic](images/schematic.png)
 ![Layout](images/layout.png)
 ![3D Top](images/3d_top.png)
-![3D Bottom](docs/3d_bottom.png)
+![3D Bottom](images/3d_bottom.png)
